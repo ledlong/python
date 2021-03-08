@@ -1,3 +1,4 @@
+# This program is to add more student into the database named ledongdb
 import mysql.connector
 from tkinter import messagebox
 from tkinter import *
